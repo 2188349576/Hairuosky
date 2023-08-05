@@ -16,3 +16,11 @@ description: 两个主服采用的服务端
 
 
 
+{% content-ref url="server.properties.md" %}
+[server.properties.md](server.properties.md)
+{% endcontent-ref %}
+
+{% content-ref url="spigot.yml.md" %}
+[spigot.yml.md](spigot.yml.md)
+{% endcontent-ref %}
+
