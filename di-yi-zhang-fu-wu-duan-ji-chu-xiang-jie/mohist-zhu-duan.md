@@ -14,20 +14,3 @@ description: 两个主服采用的服务端
 
 该计划已被弃用，因为Banner属于新生物，自然，他的BUG也是非常多的。鉴于目前Forge+bukkit/spigot服务端特别成熟。所以采用了国产Mohist
 
-
-
-{% content-ref url="server.properties.md" %}
-[server.properties.md](server.properties.md)
-{% endcontent-ref %}
-
-{% content-ref url="spigot.yml.md" %}
-[spigot.yml.md](spigot.yml.md)
-{% endcontent-ref %}
-
-{% content-ref url="bukkit.yml.md" %}
-[bukkit.yml.md](bukkit.yml.md)
-{% endcontent-ref %}
-
-
-
-至此 你已经了解了所有服务端的配置文件。根据服务器核心的不同 可能还有Paper.yml等文件。
