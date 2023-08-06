@@ -24,3 +24,10 @@ description: 两个主服采用的服务端
 [spigot.yml.md](spigot.yml.md)
 {% endcontent-ref %}
 
+{% content-ref url="bukkit.yml.md" %}
+[bukkit.yml.md](bukkit.yml.md)
+{% endcontent-ref %}
+
+
+
+至此 你已经了解了所有服务端的配置文件。根据服务器核心的不同 可能还有Paper.yml等文件。
