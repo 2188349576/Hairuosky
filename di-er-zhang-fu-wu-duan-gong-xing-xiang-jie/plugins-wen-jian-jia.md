@@ -6,7 +6,7 @@ description: 插件文件夹
 
 对于Spigot、Paper、Mohist这类能够支持bukkit、spigot插件的服务端来说，一般都会拥有plugins文件夹
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>plugins文件夹</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>plugins文件夹</p></figcaption></figure>
 
 下面是AI解释 （在未来所有的引用都会用下面的方式标注 大部分都是来自AI）
 
