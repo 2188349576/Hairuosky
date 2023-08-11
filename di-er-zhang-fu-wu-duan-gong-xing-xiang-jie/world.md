@@ -12,7 +12,7 @@ description: 地图文件夹
 
 然鹅，我更喜欢paper端那样储存地图的方式，所有地图均在根目录放着
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Paper1.19.4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Paper1.19.4</p></figcaption></figure>
 
 这样能更好的方便管理。
 

@@ -4,7 +4,7 @@ description: 服务器运行的库文件
 
 # Cache、libs、libraries
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>libraries和libs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>libraries和libs</p></figcaption></figure>
 
 * Cache是用于临时存储频繁访问的数据，以提高数据访问效率。
 * Libs是库文件，包含预先编写好的代码，供开发者在自己的程序中调用和使用。

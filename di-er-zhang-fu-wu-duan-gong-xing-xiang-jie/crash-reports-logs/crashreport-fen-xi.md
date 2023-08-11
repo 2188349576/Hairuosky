@@ -169,7 +169,7 @@ Mod List:
 
 我们需要在文件夹内选择与crash-report时间相似的日志文件，解压
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>log.zip</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>log.zip</p></figcaption></figure>
 
 ```
 2023-08-05 23:41:41,759 [1;31mERROR[m [m[main][m [mn.m.s.Main.main(300)[m: Failed to start the minecraft server
@@ -217,7 +217,7 @@ net.minecraft.util.DirectoryLock$LockException: /Hairuosky/V12-1/./world/session
 
 打开服务器的shell界面
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>shell界面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>shell界面</p></figcaption></figure>
 
 输入
 

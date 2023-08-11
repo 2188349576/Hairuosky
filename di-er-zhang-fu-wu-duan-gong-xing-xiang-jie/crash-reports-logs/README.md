@@ -4,7 +4,7 @@ description: 服务器运行维护最重要的文件夹
 
 # Crash-Reports、logs
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>crash-reports&#x26;logs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>crash-reports&#x26;logs</p></figcaption></figure>
 
 > 在Minecraft服务器中，Crash-Report和logs（日志）是两个不同的文件，用于帮助服务器管理员和开发者诊断和解决问题。
 >
